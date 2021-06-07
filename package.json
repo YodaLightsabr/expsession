@@ -1,7 +1,7 @@
 {
-  "name": "quicksession",
-  "version": "1.0.0",
-  "description": "Quicksession is an easy way to handle sessions in Node.js and Express. With one line of code, you can manage sessions for each user and store data for that session.",
+  "name": "expsession",
+  "version": "1.0.1",
+  "description": "Expsession is an easy way to handle sessions in Node.js and Express. With one line of code, you can manage sessions for each user and store data for that session.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,10 +15,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YodaLightsabr/Quicksession.git"
+    "url": "git+https://github.com/YodaLightsabr/expsession.git"
   },
   "bugs": {
-    "url": "https://github.com/YodaLightsabr/Quicksession/issues"
+    "url": "https://github.com/YodaLightsabr/expsession/issues"
   },
-  "homepage": "https://github.com/YodaLightsabr/Quicksession#readme"
+  "homepage": "https://github.com/YodaLightsabr/expsession#readme"
 }
